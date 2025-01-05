@@ -18,6 +18,8 @@ A Gradio-based intelligent support system that automatically categorizes, analyz
 
 🖥️ Clean web interface using Gradio
 
+![Customer Support System Flow Diagram](CustomerSupportAgentsFlowDiagram.png)
+
 ### How It Works
 The system processes queries through a sophisticated workflow:
 
@@ -34,6 +36,6 @@ Technical issues → Technical support
 Billing queries → Billing department
 
 General queries → General support
-![Customer Support System Flow Diagram](CustomerSupportAgentsFlowDiagram.png)
+
 
 
