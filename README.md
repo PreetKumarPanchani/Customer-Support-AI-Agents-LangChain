@@ -35,7 +35,7 @@ The system processes queries through a sophisticated workflow:
 
     Billing queries → Billing department
 
-General queries → General support
+    General queries → General support
 
 
 
