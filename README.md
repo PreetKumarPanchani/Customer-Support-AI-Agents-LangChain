@@ -23,17 +23,17 @@ A Gradio-based intelligent support system that automatically categorizes, analyz
 ### How It Works
 The system processes queries through a sophisticated workflow:
 
-Query Categorization (Technical/Billing/General)
+- Query Categorization (Technical/Billing/General)
 
-Sentiment Analysis (Positive/Neutral/Negative)
+- Sentiment Analysis (Positive/Neutral/Negative)
 
-Smart Routing:
+- Smart Routing:
 
-Negative sentiment → Human escalation
+    Negative sentiment → Human escalation
 
-Technical issues → Technical support
+    Technical issues → Technical support
 
-Billing queries → Billing department
+    Billing queries → Billing department
 
 General queries → General support
 
